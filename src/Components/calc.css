@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+.result{
+    border: 2px solid whitesmoke;
+    height:50px;
+    background-color: rgba(255, 255, 255, 0.2);
+    width: 400px;
+    margin-left: 50px;
+    text-align: right;
+    text-size-adjust: auto;
+}
+button{
+    width: 100px;
+    height: 40px;
+    background-color:violet;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    border: 2px solid whitesmoke;
+}
+.big{
+    width: 205px;
+    background-color:rgb(255, 0, 255);
+}
+/* caluculator outline */
+.cal{
+    border: 2px solid black;
+    width: 500px;
+    height: 350px;
+    margin: auto;
+    margin-top: 10vh;
+    background-color: black;
+    border: 2px solid whitesmoke;
+}
+h1{
+    color: whitesmoke;
+}
+h5{
+    color:whitesmoke;
+}
+a{
+    color: aliceblue;
+}
